@@ -1,0 +1,1 @@
+# PyBrute - The best facebook account cracker in the world! | PyBrute generates combinations from keywords and usernames specified from YOU! It is easy to use, and effective! Original Software By NSK B3 aka Nerkzei. Copyright © 2018, All right reserved.
